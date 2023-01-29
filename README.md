@@ -1,4 +1,4 @@
-# Hi, I am Somto Anunobi (Somteacodes)
+# Hi, I am Somto Anunobi
 I’m a fullstack developer with 3+ years of professional experience working on full-stack web and mobile technologies for a range of clients from local, small-to-medium businesses and multinational leaders. 
 I am more of a visual person and more passionate about front-end development and simplicity, best practices, and standards.
 
